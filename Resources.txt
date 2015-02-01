@@ -1,0 +1,7 @@
+Resources
+---------
+
+getbootstrap.com/css/ (Bootstrap CSS Documentation)
+www.w3schools.com
+validator.w3.org (Markup Validation)
+jigsaw.w3.org/css-validator (CSS Validation)
